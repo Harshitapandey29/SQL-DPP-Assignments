@@ -42,9 +42,9 @@
 ----
 
 🚀 **Key Skills Highlighted:**
-SQL 
-Data Analysis 
-Relational Databases 
-Joins · Subqueries 
-Aggregations 
-Business Queries
+- SQL 
+- Data Analysis 
+- Relational Databases 
+- Joins and Subqueries 
+- Aggregations 
+- Business Queries
